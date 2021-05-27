@@ -1,4 +1,4 @@
-# vue-manage-system
+# H6C-ONEStor
 
 <a href="https://github.com/vuejs/vue">
     <img src="https://img.shields.io/badge/vue-2.6.10-brightgreen.svg" alt="vue">
@@ -16,11 +16,7 @@
     <img src="https://img.shields.io/badge/%24-donate-ff69b4.svg" alt="donate">
   </a>
 
-基于 Vue + Element UI 的后台管理系统解决方案。[线上地址](https://lin-xin.gitee.io/example/work/)
-
-> React + Ant Design 的版本正在开发中，仓库地址：[react-manage-system](https://github.com/lin-xin/react-manage-system)
-
-[English document](https://github.com/lin-xin/manage-system/blob/master/README_EN.md)
+基于 Vue + Element UI 的后台管理系统解决方案。
 
 ## 项目截图
 
@@ -36,15 +32,7 @@
 
 ![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/wms2.png)
 
-## 赞赏
 
-请作者喝杯咖啡吧！(微信号：linxin_20)
-
-![微信扫一扫](https://lin-xin.gitee.io/images/weixin.jpg)
-
-## 特别鸣谢
-
-- [实验楼](https://www.shiyanlou.com?source=vue-manage-system)
 
 ## 前言
 
@@ -69,7 +57,8 @@
 -   [x] 三级菜单
 -   [x] 自定义图标
 -   [x] 可拖拽弹窗
--   [x] 国际化
+-   [x] 国际化组件
+-   [x] 开发者模式
 
 ## 安装步骤
 
